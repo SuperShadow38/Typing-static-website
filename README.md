@@ -1,4 +1,4 @@
-# Nombre de la Página Web
+  # Typing
 
 Esta es una web básica con la cuál el propósito es el de simular un web de cursos para el área de tecnologías de la información.
 
