@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro</title>
+    <!--Icono-->
+	<link rel="icon" type="image/x-icon" href="img/icono-typing.png">
+    <!--ESTILO CSS-->
+    <link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://bootswatch.com/5/cosmo/bootstrap.min.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+	
+</head>
+<!--ICONO DE ENLACE A MENÚ PRINCIPAL-->
+<body class="registro-plantilla">
+    <div class="icon-form">
+        <a class="navbar-brand" href="index.html"><i class='bx bx-code-alt'></i>Typing</a>
+    
+    </div>
+        <h1>Formulario de registro</h1>
+        
+        <!--FORMULARIO-->
+    <div class="container-form">
+        
+        <br>
+    <div class="form-floating">
+        <input type="text" class="form-control" id="names" name="names" placeholder="Names">
+        <label for="names">Nombres</label>
+    </div>
+    <div class="form-floating mt-2">
+        <input type="text" class="form-control" name="last-name" placeholder="Last-name">
+        <label for="password">Apellidos</label>
+    </div>
+    <div class="form-floating mt-2">
+        <input type="email" class="form-control" name="email" placeholder="Email">
+        <label for="email">Correo</label>
+    </div>
+    <div class="form-floating mt-2">
+        <input type="text" class="form-control" name="number" placeholder="Number">
+        <label for="password">Whatsapp</label>
+    </div>
+    <br>
+    <label for="planes">Planes de estudios:</label>
+        <select name="planes" id="id_planes">
+        <option value="0">---------------</option>
+        <option value="1" class="form-control">Bases de datos</option>
+        <option value="2" class="form-control">Frontend</option>
+        <option value="3" class="form-control">Backend</option>
+        </select>
+    <br>
+    <br>
+    <button class="btn btn-lg btn-primary" type="submit" src="#">Registrar</button>
+</form>
+</div>
+    </div>
+    
+</body>
+</html>
