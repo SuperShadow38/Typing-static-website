@@ -29,5 +29,14 @@ Para visualizar la página web estática, solo necesitas un navegador web compat
 Este proyecto es de naturaleza estática y no acepta contribuciones en este momento.
 
 ## Licencia
-Libre uso.
-Este proyecto se ofrece sin ninguna licencia específica y se considera de libre uso. Puedes utilizar, modificar y distribuir el código fuente y los recursos incluidos en este proyecto según tus necesidades y sin restricciones adicionales.
+
+Este proyecto se publica bajo la licencia "Libre uso", lo que significa que es libre de usar, modificar y distribuir sin restricciones adicionales.
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros en fabioavila537@gmail.com.
+
+Asegurate de personalizar el archivo README con detalles específicos sobre su proyecto, como instrucciones de instalación, directrices de uso e información de contacto.
+
+¡Buena suerte con tu proyecto! Si tienes más preguntas, no dudes en hacerlas.
+
