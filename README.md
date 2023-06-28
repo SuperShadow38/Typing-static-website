@@ -28,6 +28,6 @@ Para visualizar la página web estática, solo necesitas un navegador web compat
 
 Este proyecto es de naturaleza estática y no acepta contribuciones en este momento.
 
-##Licencia
+## Licencia
 Libre uso.
 Este proyecto se ofrece sin ninguna licencia específica y se considera de libre uso. Puedes utilizar, modificar y distribuir el código fuente y los recursos incluidos en este proyecto según tus necesidades y sin restricciones adicionales.
