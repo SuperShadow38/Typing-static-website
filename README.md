@@ -6,11 +6,7 @@ Esta es una web básica con la cuál el propósito es el de simular un web de cu
 
 - **HTML5:** La página web está construida utilizando HTML5 para la estructura y el contenido.
 - **CSS3:** Se ha utilizado CSS3 para el diseño y la presentación visual de la página.
-- **Recursos Estáticos:** Todos los recursos (imágenes, archivos CSS, archivos JS) se encuentran en la carpeta `static`.
 - **Responsivo:** La página web es responsiva y se adapta a diferentes tamaños de pantalla y dispositivos.
-- **Navegación:** Se incluye una barra de navegación para facilitar la navegación por la página.
-- **Información de Contacto:** Se muestra la información de contacto, como dirección, número de teléfono y dirección de correo electrónico.
-- **Enlaces Externos:** Se han agregado enlaces externos a las redes sociales y otros sitios relevantes.
 
 ## Requisitos
 
