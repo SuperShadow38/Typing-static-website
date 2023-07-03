@@ -1,38 +1,23 @@
 ## Typing
 
-Esta es una web básica con la cuál el propósito es el de simular un web de cursos para el área de tecnologías de la información.
+This is a basic web with which the purpose is to simulate a web of courses for the area of information technology.
 
-## Características
+## Features
 
-- **HTML5:** La página web está construida utilizando HTML5 para la estructura y el contenido.
-- **CSS3:** Se ha utilizado CSS3 para el diseño y la presentación visual de la página.
-- **Responsivo:** La página web es responsiva y se adapta a diferentes tamaños de pantalla y dispositivos.
+- **HTML5**: The web page is built using HTML5 for structure and content.
+- **CSS3**: CSS3 has been used for the layout and visual presentation of the page.
+- **Responsive**: The website is responsive and adapts to different screen sizes and devices.
 
-## Requisitos
+## Usage
 
-Para visualizar la página web estática, solo necesitas un navegador web compatible, como Google Chrome, Mozilla Firefox o Safari.
+1. Clone or download this repository to your local machine.
+2. Navigate to the project folder.
+3. Open the `index.html` file in your web browser.
+4. Browse the static web page and navigate through the different sections.
+5. Enjoy the web page!
 
-## Instrucciones de Uso
+## License
 
-1. Clona o descarga este repositorio en tu máquina local.
-2. Navega hasta la carpeta del proyecto.
-3. Abre el archivo `index.html` en tu navegador web.
-4. Explora la página web estática y navega por las diferentes secciones.
-5. ¡Disfruta de la página web!
+This project is released under the "Free Use" license, which means that it is free to use, modify and distribute without additional restrictions.
 
-## Contribuciones
-
-Este proyecto es de naturaleza estática y no acepta contribuciones en este momento.
-
-## Licencia
-
-Este proyecto se publica bajo la licencia "Libre uso", lo que significa que es libre de usar, modificar y distribuir sin restricciones adicionales.
-
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros en fabioavila537@gmail.com.
-
-Asegurate de personalizar el archivo README con detalles específicos sobre su proyecto, como instrucciones de instalación, directrices de uso e información de contacto.
-
-¡Buena suerte con tu proyecto! Si tienes más preguntas, no dudes en hacerlas.
 
